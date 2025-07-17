@@ -10,21 +10,21 @@ Projeto desenvolvido na **Faculdade de Ciências da Universidade do Porto (FCUP)
 ## Funcionalidades
 
 - Implementação de quatro variantes do MCTS:
- - **MCTS1**: Implementação canónica.
- - **MCTS2**: Com estratégia progressive widening.
- - **MCTS3**: Com heurísticas táticas para jogadas críticas.
- - **MCTSID3**: Integração com árvore de decisão ID3.
+  - **MCTS1**: Implementação canónica.
+  - **MCTS2**: Com estratégia progressive widening.
+  - **MCTS3**: Com heurísticas táticas para jogadas críticas.
+  - **MCTSID3**: Integração com árvore de decisão ID3.
 - Algoritmo **ID3** aplicado a:
- - Dataset Iris com discretização de atributos.
- - Dataset Connect Four gerado automaticamente.
+  - Dataset Iris com discretização de atributos.
+  - Dataset Connect Four gerado automaticamente.
 - Interface gráfica interativa para:
- - Jogos Human vs AI.
- - Confrontos AI vs AI.
- - Sistema de sugestões de jogadas.
+  - Jogos Human vs AI.
+  - Confrontos AI vs AI.
+  - Sistema de sugestões de jogadas.
 - Análise de performance:
- - 100 partidas controladas por configuração.
- - Métricas de classificação (accuracy, precision, recall, F1-score).
- - Visualização de resultados.
+  - 100 partidas controladas por configuração.
+  - Métricas de classificação (accuracy, precision, recall, F1-score).
+  - Visualização de resultados.
 
 ---
 
