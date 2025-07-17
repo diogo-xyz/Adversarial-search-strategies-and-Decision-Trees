@@ -32,9 +32,14 @@ Projeto desenvolvido na **Faculdade de Ciências da Universidade do Porto (FCUP)
 
 - **Python 3.10.12**
 - Bibliotecas:
- - `pygame 2.6.1`
- - `numpy 2.2.3`
- - `scikit-learn 1.6.1`
- - `matplotlib 3.10.0`
- - `pandas 2.2.3`
- - `joblib 1.4.2`
+   - `pygame 2.6.1`
+   - `numpy 2.2.3`
+   - `scikit-learn 1.6.1`
+   - `matplotlib 3.10.0`
+   - `pandas 2.2.3`
+   - `joblib 1.4.2`
+
+---
+
+## Como Executar
+ - PL5_G10.ipynb
