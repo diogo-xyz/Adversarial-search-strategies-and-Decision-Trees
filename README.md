@@ -42,4 +42,4 @@ Projeto desenvolvido na **Faculdade de Ciências da Universidade do Porto (FCUP)
 ---
 
 ## Como Executar
- - PL5_G10.ipynb
+Rodar o arquivo PL5_G10.ipynb
